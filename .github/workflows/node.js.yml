@@ -43,4 +43,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: jefferson300/trindade-web:latest
+          tags: jefferson300/teste-web
